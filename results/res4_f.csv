@@ -1,0 +1,172 @@
+"","policy","policy_length","scenario","temp_band","pr_recovery","percent_decline"
+"1","Status quo",0,8,"Delta*T==8*'-'*10*degree*C",0.5,0
+"2","Status quo",0,9,"Delta*T==8*'-'*10*degree*C",0.277777777777778,0
+"3","Status quo",0,10,"Delta*T==8*'-'*10*degree*C",0.222222222222222,0
+"4","Increase male size limit",6,8,"Delta*T==8*'-'*10*degree*C",1,11875940.1413334
+"5","Increase male size limit",6,9,"Delta*T==8*'-'*10*degree*C",0.5,7137216.50071515
+"6","Increase male size limit",6,10,"Delta*T==8*'-'*10*degree*C",0.4375,7330259.38738409
+"7","Increase male size limit",12,8,"Delta*T==8*'-'*10*degree*C",0.9375,11736925.9175404
+"8","Increase male size limit",12,9,"Delta*T==8*'-'*10*degree*C",0.4375,7336194.1425411
+"9","Increase male size limit",12,10,"Delta*T==8*'-'*10*degree*C",0.375,6907416.62989478
+"10","Increase male size limit",18,8,"Delta*T==8*'-'*10*degree*C",1,11951846.73135
+"11","Increase male size limit",18,9,"Delta*T==8*'-'*10*degree*C",0.5,7221254.63257918
+"12","Increase male size limit",18,10,"Delta*T==8*'-'*10*degree*C",0.375,6912444.18139807
+"13","Increase male size limit",24,8,"Delta*T==8*'-'*10*degree*C",0.8125,11863464.323049
+"14","Increase male size limit",24,9,"Delta*T==8*'-'*10*degree*C",0.5,7284073.11994346
+"15","Increase male size limit",24,10,"Delta*T==8*'-'*10*degree*C",0.4375,7277822.46047782
+"16","Increase male size limit",30,8,"Delta*T==8*'-'*10*degree*C",0.9375,11788317.7307326
+"17","Increase male size limit",30,9,"Delta*T==8*'-'*10*degree*C",0.4375,7487156.14018023
+"18","Increase male size limit",30,10,"Delta*T==8*'-'*10*degree*C",0.375,6943448.27200397
+"19","Increase male size limit",36,8,"Delta*T==8*'-'*10*degree*C",0.9375,12010172.372437
+"20","Increase male size limit",36,9,"Delta*T==8*'-'*10*degree*C",0.5,6803031.92482071
+"21","Increase male size limit",36,10,"Delta*T==8*'-'*10*degree*C",0.4375,7058661.25873554
+"22","Increase male size limit",42,8,"Delta*T==8*'-'*10*degree*C",0.9375,11717482.4397666
+"23","Increase male size limit",42,9,"Delta*T==8*'-'*10*degree*C",0.4375,7387600.25802737
+"24","Increase male size limit",42,10,"Delta*T==8*'-'*10*degree*C",0.4375,7337709.64149278
+"25","Increase male size limit",48,8,"Delta*T==8*'-'*10*degree*C",0.9375,11330810.1153823
+"26","Increase male size limit",48,9,"Delta*T==8*'-'*10*degree*C",0.4375,7069195.33619857
+"27","Increase male size limit",48,10,"Delta*T==8*'-'*10*degree*C",0.375,7718252.66073707
+"28","Increase male size limit",54,8,"Delta*T==8*'-'*10*degree*C",0.8125,11550797.6115603
+"29","Increase male size limit",54,9,"Delta*T==8*'-'*10*degree*C",0.5625,6452464.05682354
+"30","Increase male size limit",54,10,"Delta*T==8*'-'*10*degree*C",0.4,7081085.79398614
+"31","Increase male size limit",60,8,"Delta*T==8*'-'*10*degree*C",1,11237501.3785609
+"32","Increase male size limit",60,9,"Delta*T==8*'-'*10*degree*C",0.5625,6996709.98976305
+"33","Increase male size limit",60,10,"Delta*T==8*'-'*10*degree*C",0.375,6850944.80955481
+"34","Increase male size limit",66,8,"Delta*T==8*'-'*10*degree*C",0.9375,11062105.33785
+"35","Increase male size limit",66,9,"Delta*T==8*'-'*10*degree*C",0.3125,6963119.32720704
+"36","Increase male size limit",66,10,"Delta*T==8*'-'*10*degree*C",0.25,7595042.73334824
+"37","Increase male size limit",72,8,"Delta*T==8*'-'*10*degree*C",0.8125,11126859.0361448
+"38","Increase male size limit",72,9,"Delta*T==8*'-'*10*degree*C",0.375,7055854.03931532
+"39","Increase male size limit",72,10,"Delta*T==8*'-'*10*degree*C",0.375,6897051.16076072
+"40","Increase male size limit",78,8,"Delta*T==8*'-'*10*degree*C",0.6875,11201625.6150912
+"41","Increase male size limit",78,9,"Delta*T==8*'-'*10*degree*C",0.3125,7154571.3721375
+"42","Increase male size limit",78,10,"Delta*T==8*'-'*10*degree*C",0.3125,7098575.41043435
+"43","Increase male size limit",84,8,"Delta*T==8*'-'*10*degree*C",0.25,11136996.3587609
+"44","Increase male size limit",84,9,"Delta*T==8*'-'*10*degree*C",0.125,6432948.79615217
+"45","Increase male size limit",84,10,"Delta*T==8*'-'*10*degree*C",0.294117647058824,6490099.27532513
+"46","No fishing females",6,8,"Delta*T==8*'-'*10*degree*C",0.869565217391304,12292662.5907311
+"47","No fishing females",6,9,"Delta*T==8*'-'*10*degree*C",0.692307692307692,9693822.70784597
+"48","No fishing females",6,10,"Delta*T==8*'-'*10*degree*C",0.64,9169239.35246138
+"49","No fishing females",12,8,"Delta*T==8*'-'*10*degree*C",0.91304347826087,12239180.7286161
+"50","No fishing females",12,9,"Delta*T==8*'-'*10*degree*C",0.590909090909091,9121108.0417176
+"51","No fishing females",12,10,"Delta*T==8*'-'*10*degree*C",0.5,8936402.171698
+"52","No fishing females",18,8,"Delta*T==8*'-'*10*degree*C",0.85,12233649.1383832
+"53","No fishing females",18,9,"Delta*T==8*'-'*10*degree*C",0.692307692307692,9967384.23000254
+"54","No fishing females",18,10,"Delta*T==8*'-'*10*degree*C",0.6,9691490.03429274
+"55","No fishing females",24,8,"Delta*T==8*'-'*10*degree*C",1,12560748.83062
+"56","No fishing females",24,9,"Delta*T==8*'-'*10*degree*C",0.631578947368421,8864119.15053616
+"57","No fishing females",24,10,"Delta*T==8*'-'*10*degree*C",0.619047619047619,9678814.66813791
+"58","No fishing females",30,8,"Delta*T==8*'-'*10*degree*C",0.956521739130435,12684345.6978392
+"59","No fishing females",30,9,"Delta*T==8*'-'*10*degree*C",0.565217391304348,9604518.05639916
+"60","No fishing females",30,10,"Delta*T==8*'-'*10*degree*C",0.6,9745908.18580521
+"61","No fishing females",36,8,"Delta*T==8*'-'*10*degree*C",0.91304347826087,12874930.1435049
+"62","No fishing females",36,9,"Delta*T==8*'-'*10*degree*C",0.739130434782609,9875898.77196841
+"63","No fishing females",36,10,"Delta*T==8*'-'*10*degree*C",0.695652173913043,10149626.4949194
+"64","No fishing females",42,8,"Delta*T==8*'-'*10*degree*C",0.909090909090909,13092019.1229591
+"65","No fishing females",42,9,"Delta*T==8*'-'*10*degree*C",0.578947368421053,8735543.77300259
+"66","No fishing females",42,10,"Delta*T==8*'-'*10*degree*C",0.590909090909091,9493228.79030046
+"67","No fishing females",48,8,"Delta*T==8*'-'*10*degree*C",1,13151418.8695852
+"68","No fishing females",48,9,"Delta*T==8*'-'*10*degree*C",0.75,9240851.46177023
+"69","No fishing females",48,10,"Delta*T==8*'-'*10*degree*C",0.535714285714286,9976899.58582257
+"70","No fishing females",54,8,"Delta*T==8*'-'*10*degree*C",0.92,13604600.4112385
+"71","No fishing females",54,9,"Delta*T==8*'-'*10*degree*C",0.6,9118332.64643978
+"72","No fishing females",54,10,"Delta*T==8*'-'*10*degree*C",0.642857142857143,9700244.13405037
+"73","No fishing females",60,8,"Delta*T==8*'-'*10*degree*C",1,13505625.7554106
+"74","No fishing females",60,9,"Delta*T==8*'-'*10*degree*C",0.68,9095890.43650107
+"75","No fishing females",60,10,"Delta*T==8*'-'*10*degree*C",0.703703703703704,10328668.4277382
+"76","No fishing females",66,8,"Delta*T==8*'-'*10*degree*C",1,13948799.2301976
+"77","No fishing females",66,9,"Delta*T==8*'-'*10*degree*C",0.76,9221299.54294412
+"78","No fishing females",66,10,"Delta*T==8*'-'*10*degree*C",0.535714285714286,10277032.7385412
+"79","No fishing females",72,8,"Delta*T==8*'-'*10*degree*C",0.96,14095532.3590464
+"80","No fishing females",72,9,"Delta*T==8*'-'*10*degree*C",0.68,9529371.409383
+"81","No fishing females",72,10,"Delta*T==8*'-'*10*degree*C",0.68,9569457.21479156
+"82","No fishing females",78,8,"Delta*T==8*'-'*10*degree*C",1,14508999.3109572
+"83","No fishing females",78,9,"Delta*T==8*'-'*10*degree*C",0.772727272727273,10246629.2048072
+"84","No fishing females",78,10,"Delta*T==8*'-'*10*degree*C",0.636363636363636,10445369.2910722
+"85","No fishing females",84,8,"Delta*T==8*'-'*10*degree*C",1,14520347.6865366
+"86","No fishing females",84,9,"Delta*T==8*'-'*10*degree*C",0.75,10394653.7898748
+"87","No fishing females",84,10,"Delta*T==8*'-'*10*degree*C",0.642857142857143,10568177.1241567
+"88","No fishing males",6,8,"Delta*T==8*'-'*10*degree*C",0.944444444444444,17396153.7144733
+"89","No fishing males",6,9,"Delta*T==8*'-'*10*degree*C",0.588235294117647,15079541.8265596
+"90","No fishing males",6,10,"Delta*T==8*'-'*10*degree*C",0.428571428571429,15418045.7941179
+"91","No fishing males",12,8,"Delta*T==8*'-'*10*degree*C",0.888888888888889,20725129.0393408
+"92","No fishing males",12,9,"Delta*T==8*'-'*10*degree*C",0.4375,20018553.1132263
+"93","No fishing males",12,10,"Delta*T==8*'-'*10*degree*C",0.769230769230769,20336342.5289914
+"94","No fishing males",18,8,"Delta*T==8*'-'*10*degree*C",1,26627343.4339739
+"95","No fishing males",18,9,"Delta*T==8*'-'*10*degree*C",0.666666666666667,22323251.9031134
+"96","No fishing males",18,10,"Delta*T==8*'-'*10*degree*C",0.545454545454545,15635896.8541397
+"97","No fishing males",24,8,"Delta*T==8*'-'*10*degree*C",1,28458834.782441
+"98","No fishing males",24,9,"Delta*T==8*'-'*10*degree*C",0.727272727272727,26139625.6403733
+"99","No fishing males",24,10,"Delta*T==8*'-'*10*degree*C",0.7,18775088.8269387
+"100","No fishing males",30,8,"Delta*T==8*'-'*10*degree*C",1,27210067.5851518
+"101","No fishing males",30,9,"Delta*T==8*'-'*10*degree*C",0.777777777777778,26881957.0605183
+"102","No fishing males",30,10,"Delta*T==8*'-'*10*degree*C",0.777777777777778,21966085.6658935
+"103","No fishing males",36,8,"Delta*T==8*'-'*10*degree*C",0.923076923076923,26101750.3722213
+"104","No fishing males",36,9,"Delta*T==8*'-'*10*degree*C",0.666666666666667,10688554.7768829
+"105","No fishing males",36,10,"Delta*T==8*'-'*10*degree*C",0.571428571428571,9160705.1877578
+"106","No fishing males",42,8,"Delta*T==8*'-'*10*degree*C",0.9,15295265.3061797
+"107","No fishing males",42,9,"Delta*T==8*'-'*10*degree*C",0.714285714285714,11694070.8127101
+"108","No fishing males",42,10,"Delta*T==8*'-'*10*degree*C",0.75,11392234.0842493
+"109","No fishing males",48,8,"Delta*T==8*'-'*10*degree*C",0.846153846153846,15663315.9158444
+"110","No fishing males",48,9,"Delta*T==8*'-'*10*degree*C",0.625,9460773.78359618
+"111","No fishing males",48,10,"Delta*T==8*'-'*10*degree*C",0.533333333333333,9785255.33506377
+"112","No fishing males",54,8,"Delta*T==8*'-'*10*degree*C",0.916666666666667,15851231.982879
+"113","No fishing males",54,9,"Delta*T==8*'-'*10*degree*C",0.666666666666667,9357035.51680586
+"114","No fishing males",54,10,"Delta*T==8*'-'*10*degree*C",0.5,9593659.05244475
+"115","No fishing males",60,8,"Delta*T==8*'-'*10*degree*C",1,16820942.6929458
+"116","No fishing males",60,9,"Delta*T==8*'-'*10*degree*C",0.461538461538462,9241313.25958873
+"117","No fishing males",60,10,"Delta*T==8*'-'*10*degree*C",0.533333333333333,11023433.0174058
+"118","No fishing males",66,8,"Delta*T==8*'-'*10*degree*C",1,17222102.1389945
+"119","No fishing males",66,9,"Delta*T==8*'-'*10*degree*C",0.692307692307692,10035625.3385844
+"120","No fishing males",66,10,"Delta*T==8*'-'*10*degree*C",0.5,10335147.9443561
+"121","No fishing males",72,8,"Delta*T==8*'-'*10*degree*C",1,17974319.1223999
+"122","No fishing males",72,9,"Delta*T==8*'-'*10*degree*C",0.5,11675004.0693161
+"123","No fishing males",72,10,"Delta*T==8*'-'*10*degree*C",0.692307692307692,9999669.42593015
+"124","No fishing males",78,8,"Delta*T==8*'-'*10*degree*C",1,18299975.3461657
+"125","No fishing males",78,9,"Delta*T==8*'-'*10*degree*C",0.714285714285714,11398107.4064361
+"126","No fishing males",78,10,"Delta*T==8*'-'*10*degree*C",0.5,10219196.2896908
+"127","No fishing males",84,8,"Delta*T==8*'-'*10*degree*C",1,18977168.0773278
+"128","No fishing males",84,9,"Delta*T==8*'-'*10*degree*C",0.785714285714286,13335582.0030535
+"129","No fishing males",84,10,"Delta*T==8*'-'*10*degree*C",0.5,11043253.6495996
+"130","Full closure",6,8,"Delta*T==8*'-'*10*degree*C",0.823529411764706,12493074.3882439
+"131","Full closure",6,9,"Delta*T==8*'-'*10*degree*C",0.470588235294118,8688094.82745989
+"132","Full closure",6,10,"Delta*T==8*'-'*10*degree*C",0.411764705882353,7751749.01951248
+"133","Full closure",12,8,"Delta*T==8*'-'*10*degree*C",0.882352941176471,13268167.415946
+"134","Full closure",12,9,"Delta*T==8*'-'*10*degree*C",0.470588235294118,8442063.58249564
+"135","Full closure",12,10,"Delta*T==8*'-'*10*degree*C",0.470588235294118,8662982.39337208
+"136","Full closure",18,8,"Delta*T==8*'-'*10*degree*C",1,14061442.317226
+"137","Full closure",18,9,"Delta*T==8*'-'*10*degree*C",0.647058823529412,8755213.2573014
+"138","Full closure",18,10,"Delta*T==8*'-'*10*degree*C",0.529411764705882,9203274.58105404
+"139","Full closure",24,8,"Delta*T==8*'-'*10*degree*C",1,14998331.529754
+"140","Full closure",24,9,"Delta*T==8*'-'*10*degree*C",0.529411764705882,9144636.67365136
+"141","Full closure",24,10,"Delta*T==8*'-'*10*degree*C",0.588235294117647,9380322.75837218
+"142","Full closure",30,8,"Delta*T==8*'-'*10*degree*C",1,15675874.4623829
+"143","Full closure",30,9,"Delta*T==8*'-'*10*degree*C",0.588235294117647,9785030.56171048
+"144","Full closure",30,10,"Delta*T==8*'-'*10*degree*C",0.470588235294118,9895036.76157626
+"145","Full closure",36,8,"Delta*T==8*'-'*10*degree*C",0.941176470588235,16661793.1494777
+"146","Full closure",36,9,"Delta*T==8*'-'*10*degree*C",0.764705882352941,10442993.4333575
+"147","Full closure",36,10,"Delta*T==8*'-'*10*degree*C",0.6875,10521093.8477376
+"148","Full closure",42,8,"Delta*T==8*'-'*10*degree*C",0.9375,17351217.8215197
+"149","Full closure",42,9,"Delta*T==8*'-'*10*degree*C",0.8125,10388974.1692505
+"150","Full closure",42,10,"Delta*T==8*'-'*10*degree*C",0.625,10439494.3545545
+"151","Full closure",48,8,"Delta*T==8*'-'*10*degree*C",0.9375,18314009.1623185
+"152","Full closure",48,9,"Delta*T==8*'-'*10*degree*C",0.75,11206474.9267404
+"153","Full closure",48,10,"Delta*T==8*'-'*10*degree*C",0.5,10604034.833731
+"154","Full closure",54,8,"Delta*T==8*'-'*10*degree*C",1,19057334.5947067
+"155","Full closure",54,9,"Delta*T==8*'-'*10*degree*C",0.75,11881741.5386132
+"156","Full closure",54,10,"Delta*T==8*'-'*10*degree*C",0.75,11351601.366913
+"157","Full closure",60,8,"Delta*T==8*'-'*10*degree*C",1,20088797.7617984
+"158","Full closure",60,9,"Delta*T==8*'-'*10*degree*C",0.875,12815580.615838
+"159","Full closure",60,10,"Delta*T==8*'-'*10*degree*C",0.6875,11734717.6574688
+"160","Full closure",66,8,"Delta*T==8*'-'*10*degree*C",1,20887197.1598419
+"161","Full closure",66,9,"Delta*T==8*'-'*10*degree*C",0.8125,13687210.0204893
+"162","Full closure",66,10,"Delta*T==8*'-'*10*degree*C",0.5625,12301163.1189103
+"163","Full closure",72,8,"Delta*T==8*'-'*10*degree*C",1,21858585.2889085
+"164","Full closure",72,9,"Delta*T==8*'-'*10*degree*C",0.9375,14593174.1222811
+"165","Full closure",72,10,"Delta*T==8*'-'*10*degree*C",0.625,12741784.9426773
+"166","Full closure",78,8,"Delta*T==8*'-'*10*degree*C",1,22625500.6180246
+"167","Full closure",78,9,"Delta*T==8*'-'*10*degree*C",0.875,15361019.7148159
+"168","Full closure",78,10,"Delta*T==8*'-'*10*degree*C",0.75,13398516.6626637
+"169","Full closure",84,8,"Delta*T==8*'-'*10*degree*C",1,23618315.7168468
+"170","Full closure",84,9,"Delta*T==8*'-'*10*degree*C",0.9375,16319126.7824925
+"171","Full closure",84,10,"Delta*T==8*'-'*10*degree*C",0.875,14242477.5597179
