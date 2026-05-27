@@ -1,172 +1,172 @@
-"","policy","policy_length","scenario","temp_band","pr_recovery","percent_decline"
-"1","Status quo",0,8,"Delta*T==8*'-'*10*degree*C",0.5,0
-"2","Status quo",0,9,"Delta*T==8*'-'*10*degree*C",0.277777777777778,0
-"3","Status quo",0,10,"Delta*T==8*'-'*10*degree*C",0.222222222222222,0
-"4","Increase male size limit",6,8,"Delta*T==8*'-'*10*degree*C",1,11875940.1413334
-"5","Increase male size limit",6,9,"Delta*T==8*'-'*10*degree*C",0.5,7137216.50071515
-"6","Increase male size limit",6,10,"Delta*T==8*'-'*10*degree*C",0.4375,7330259.38738409
-"7","Increase male size limit",12,8,"Delta*T==8*'-'*10*degree*C",0.9375,11736925.9175404
-"8","Increase male size limit",12,9,"Delta*T==8*'-'*10*degree*C",0.4375,7336194.1425411
-"9","Increase male size limit",12,10,"Delta*T==8*'-'*10*degree*C",0.375,6907416.62989478
-"10","Increase male size limit",18,8,"Delta*T==8*'-'*10*degree*C",1,11951846.73135
-"11","Increase male size limit",18,9,"Delta*T==8*'-'*10*degree*C",0.5,7221254.63257918
-"12","Increase male size limit",18,10,"Delta*T==8*'-'*10*degree*C",0.375,6912444.18139807
-"13","Increase male size limit",24,8,"Delta*T==8*'-'*10*degree*C",0.8125,11863464.323049
-"14","Increase male size limit",24,9,"Delta*T==8*'-'*10*degree*C",0.5,7284073.11994346
-"15","Increase male size limit",24,10,"Delta*T==8*'-'*10*degree*C",0.4375,7277822.46047782
-"16","Increase male size limit",30,8,"Delta*T==8*'-'*10*degree*C",0.9375,11788317.7307326
-"17","Increase male size limit",30,9,"Delta*T==8*'-'*10*degree*C",0.4375,7487156.14018023
-"18","Increase male size limit",30,10,"Delta*T==8*'-'*10*degree*C",0.375,6943448.27200397
-"19","Increase male size limit",36,8,"Delta*T==8*'-'*10*degree*C",0.9375,12010172.372437
-"20","Increase male size limit",36,9,"Delta*T==8*'-'*10*degree*C",0.5,6803031.92482071
-"21","Increase male size limit",36,10,"Delta*T==8*'-'*10*degree*C",0.4375,7058661.25873554
-"22","Increase male size limit",42,8,"Delta*T==8*'-'*10*degree*C",0.9375,11717482.4397666
-"23","Increase male size limit",42,9,"Delta*T==8*'-'*10*degree*C",0.4375,7387600.25802737
-"24","Increase male size limit",42,10,"Delta*T==8*'-'*10*degree*C",0.4375,7337709.64149278
-"25","Increase male size limit",48,8,"Delta*T==8*'-'*10*degree*C",0.9375,11330810.1153823
-"26","Increase male size limit",48,9,"Delta*T==8*'-'*10*degree*C",0.4375,7069195.33619857
-"27","Increase male size limit",48,10,"Delta*T==8*'-'*10*degree*C",0.375,7718252.66073707
-"28","Increase male size limit",54,8,"Delta*T==8*'-'*10*degree*C",0.8125,11550797.6115603
-"29","Increase male size limit",54,9,"Delta*T==8*'-'*10*degree*C",0.5625,6452464.05682354
-"30","Increase male size limit",54,10,"Delta*T==8*'-'*10*degree*C",0.4,7081085.79398614
-"31","Increase male size limit",60,8,"Delta*T==8*'-'*10*degree*C",1,11237501.3785609
-"32","Increase male size limit",60,9,"Delta*T==8*'-'*10*degree*C",0.5625,6996709.98976305
-"33","Increase male size limit",60,10,"Delta*T==8*'-'*10*degree*C",0.375,6850944.80955481
-"34","Increase male size limit",66,8,"Delta*T==8*'-'*10*degree*C",0.9375,11062105.33785
-"35","Increase male size limit",66,9,"Delta*T==8*'-'*10*degree*C",0.3125,6963119.32720704
-"36","Increase male size limit",66,10,"Delta*T==8*'-'*10*degree*C",0.25,7595042.73334824
-"37","Increase male size limit",72,8,"Delta*T==8*'-'*10*degree*C",0.8125,11126859.0361448
-"38","Increase male size limit",72,9,"Delta*T==8*'-'*10*degree*C",0.375,7055854.03931532
-"39","Increase male size limit",72,10,"Delta*T==8*'-'*10*degree*C",0.375,6897051.16076072
-"40","Increase male size limit",78,8,"Delta*T==8*'-'*10*degree*C",0.6875,11201625.6150912
-"41","Increase male size limit",78,9,"Delta*T==8*'-'*10*degree*C",0.3125,7154571.3721375
-"42","Increase male size limit",78,10,"Delta*T==8*'-'*10*degree*C",0.3125,7098575.41043435
-"43","Increase male size limit",84,8,"Delta*T==8*'-'*10*degree*C",0.25,11136996.3587609
-"44","Increase male size limit",84,9,"Delta*T==8*'-'*10*degree*C",0.125,6432948.79615217
-"45","Increase male size limit",84,10,"Delta*T==8*'-'*10*degree*C",0.294117647058824,6490099.27532513
-"46","No fishing females",6,8,"Delta*T==8*'-'*10*degree*C",0.869565217391304,12292662.5907311
-"47","No fishing females",6,9,"Delta*T==8*'-'*10*degree*C",0.692307692307692,9693822.70784597
-"48","No fishing females",6,10,"Delta*T==8*'-'*10*degree*C",0.64,9169239.35246138
-"49","No fishing females",12,8,"Delta*T==8*'-'*10*degree*C",0.91304347826087,12239180.7286161
-"50","No fishing females",12,9,"Delta*T==8*'-'*10*degree*C",0.590909090909091,9121108.0417176
-"51","No fishing females",12,10,"Delta*T==8*'-'*10*degree*C",0.5,8936402.171698
-"52","No fishing females",18,8,"Delta*T==8*'-'*10*degree*C",0.85,12233649.1383832
-"53","No fishing females",18,9,"Delta*T==8*'-'*10*degree*C",0.692307692307692,9967384.23000254
-"54","No fishing females",18,10,"Delta*T==8*'-'*10*degree*C",0.6,9691490.03429274
-"55","No fishing females",24,8,"Delta*T==8*'-'*10*degree*C",1,12560748.83062
-"56","No fishing females",24,9,"Delta*T==8*'-'*10*degree*C",0.631578947368421,8864119.15053616
-"57","No fishing females",24,10,"Delta*T==8*'-'*10*degree*C",0.619047619047619,9678814.66813791
-"58","No fishing females",30,8,"Delta*T==8*'-'*10*degree*C",0.956521739130435,12684345.6978392
-"59","No fishing females",30,9,"Delta*T==8*'-'*10*degree*C",0.565217391304348,9604518.05639916
-"60","No fishing females",30,10,"Delta*T==8*'-'*10*degree*C",0.6,9745908.18580521
-"61","No fishing females",36,8,"Delta*T==8*'-'*10*degree*C",0.91304347826087,12874930.1435049
-"62","No fishing females",36,9,"Delta*T==8*'-'*10*degree*C",0.739130434782609,9875898.77196841
-"63","No fishing females",36,10,"Delta*T==8*'-'*10*degree*C",0.695652173913043,10149626.4949194
-"64","No fishing females",42,8,"Delta*T==8*'-'*10*degree*C",0.909090909090909,13092019.1229591
-"65","No fishing females",42,9,"Delta*T==8*'-'*10*degree*C",0.578947368421053,8735543.77300259
-"66","No fishing females",42,10,"Delta*T==8*'-'*10*degree*C",0.590909090909091,9493228.79030046
-"67","No fishing females",48,8,"Delta*T==8*'-'*10*degree*C",1,13151418.8695852
-"68","No fishing females",48,9,"Delta*T==8*'-'*10*degree*C",0.75,9240851.46177023
-"69","No fishing females",48,10,"Delta*T==8*'-'*10*degree*C",0.535714285714286,9976899.58582257
-"70","No fishing females",54,8,"Delta*T==8*'-'*10*degree*C",0.92,13604600.4112385
-"71","No fishing females",54,9,"Delta*T==8*'-'*10*degree*C",0.6,9118332.64643978
-"72","No fishing females",54,10,"Delta*T==8*'-'*10*degree*C",0.642857142857143,9700244.13405037
-"73","No fishing females",60,8,"Delta*T==8*'-'*10*degree*C",1,13505625.7554106
-"74","No fishing females",60,9,"Delta*T==8*'-'*10*degree*C",0.68,9095890.43650107
-"75","No fishing females",60,10,"Delta*T==8*'-'*10*degree*C",0.703703703703704,10328668.4277382
-"76","No fishing females",66,8,"Delta*T==8*'-'*10*degree*C",1,13948799.2301976
-"77","No fishing females",66,9,"Delta*T==8*'-'*10*degree*C",0.76,9221299.54294412
-"78","No fishing females",66,10,"Delta*T==8*'-'*10*degree*C",0.535714285714286,10277032.7385412
-"79","No fishing females",72,8,"Delta*T==8*'-'*10*degree*C",0.96,14095532.3590464
-"80","No fishing females",72,9,"Delta*T==8*'-'*10*degree*C",0.68,9529371.409383
-"81","No fishing females",72,10,"Delta*T==8*'-'*10*degree*C",0.68,9569457.21479156
-"82","No fishing females",78,8,"Delta*T==8*'-'*10*degree*C",1,14508999.3109572
-"83","No fishing females",78,9,"Delta*T==8*'-'*10*degree*C",0.772727272727273,10246629.2048072
-"84","No fishing females",78,10,"Delta*T==8*'-'*10*degree*C",0.636363636363636,10445369.2910722
-"85","No fishing females",84,8,"Delta*T==8*'-'*10*degree*C",1,14520347.6865366
-"86","No fishing females",84,9,"Delta*T==8*'-'*10*degree*C",0.75,10394653.7898748
-"87","No fishing females",84,10,"Delta*T==8*'-'*10*degree*C",0.642857142857143,10568177.1241567
-"88","No fishing males",6,8,"Delta*T==8*'-'*10*degree*C",0.944444444444444,17396153.7144733
-"89","No fishing males",6,9,"Delta*T==8*'-'*10*degree*C",0.588235294117647,15079541.8265596
-"90","No fishing males",6,10,"Delta*T==8*'-'*10*degree*C",0.428571428571429,15418045.7941179
-"91","No fishing males",12,8,"Delta*T==8*'-'*10*degree*C",0.888888888888889,20725129.0393408
-"92","No fishing males",12,9,"Delta*T==8*'-'*10*degree*C",0.4375,20018553.1132263
-"93","No fishing males",12,10,"Delta*T==8*'-'*10*degree*C",0.769230769230769,20336342.5289914
-"94","No fishing males",18,8,"Delta*T==8*'-'*10*degree*C",1,26627343.4339739
-"95","No fishing males",18,9,"Delta*T==8*'-'*10*degree*C",0.666666666666667,22323251.9031134
-"96","No fishing males",18,10,"Delta*T==8*'-'*10*degree*C",0.545454545454545,15635896.8541397
-"97","No fishing males",24,8,"Delta*T==8*'-'*10*degree*C",1,28458834.782441
-"98","No fishing males",24,9,"Delta*T==8*'-'*10*degree*C",0.727272727272727,26139625.6403733
-"99","No fishing males",24,10,"Delta*T==8*'-'*10*degree*C",0.7,18775088.8269387
-"100","No fishing males",30,8,"Delta*T==8*'-'*10*degree*C",1,27210067.5851518
-"101","No fishing males",30,9,"Delta*T==8*'-'*10*degree*C",0.777777777777778,26881957.0605183
-"102","No fishing males",30,10,"Delta*T==8*'-'*10*degree*C",0.777777777777778,21966085.6658935
-"103","No fishing males",36,8,"Delta*T==8*'-'*10*degree*C",0.923076923076923,26101750.3722213
-"104","No fishing males",36,9,"Delta*T==8*'-'*10*degree*C",0.666666666666667,10688554.7768829
-"105","No fishing males",36,10,"Delta*T==8*'-'*10*degree*C",0.571428571428571,9160705.1877578
-"106","No fishing males",42,8,"Delta*T==8*'-'*10*degree*C",0.9,15295265.3061797
-"107","No fishing males",42,9,"Delta*T==8*'-'*10*degree*C",0.714285714285714,11694070.8127101
-"108","No fishing males",42,10,"Delta*T==8*'-'*10*degree*C",0.75,11392234.0842493
-"109","No fishing males",48,8,"Delta*T==8*'-'*10*degree*C",0.846153846153846,15663315.9158444
-"110","No fishing males",48,9,"Delta*T==8*'-'*10*degree*C",0.625,9460773.78359618
-"111","No fishing males",48,10,"Delta*T==8*'-'*10*degree*C",0.533333333333333,9785255.33506377
-"112","No fishing males",54,8,"Delta*T==8*'-'*10*degree*C",0.916666666666667,15851231.982879
-"113","No fishing males",54,9,"Delta*T==8*'-'*10*degree*C",0.666666666666667,9357035.51680586
-"114","No fishing males",54,10,"Delta*T==8*'-'*10*degree*C",0.5,9593659.05244475
-"115","No fishing males",60,8,"Delta*T==8*'-'*10*degree*C",1,16820942.6929458
-"116","No fishing males",60,9,"Delta*T==8*'-'*10*degree*C",0.461538461538462,9241313.25958873
-"117","No fishing males",60,10,"Delta*T==8*'-'*10*degree*C",0.533333333333333,11023433.0174058
-"118","No fishing males",66,8,"Delta*T==8*'-'*10*degree*C",1,17222102.1389945
-"119","No fishing males",66,9,"Delta*T==8*'-'*10*degree*C",0.692307692307692,10035625.3385844
-"120","No fishing males",66,10,"Delta*T==8*'-'*10*degree*C",0.5,10335147.9443561
-"121","No fishing males",72,8,"Delta*T==8*'-'*10*degree*C",1,17974319.1223999
-"122","No fishing males",72,9,"Delta*T==8*'-'*10*degree*C",0.5,11675004.0693161
-"123","No fishing males",72,10,"Delta*T==8*'-'*10*degree*C",0.692307692307692,9999669.42593015
-"124","No fishing males",78,8,"Delta*T==8*'-'*10*degree*C",1,18299975.3461657
-"125","No fishing males",78,9,"Delta*T==8*'-'*10*degree*C",0.714285714285714,11398107.4064361
-"126","No fishing males",78,10,"Delta*T==8*'-'*10*degree*C",0.5,10219196.2896908
-"127","No fishing males",84,8,"Delta*T==8*'-'*10*degree*C",1,18977168.0773278
-"128","No fishing males",84,9,"Delta*T==8*'-'*10*degree*C",0.785714285714286,13335582.0030535
-"129","No fishing males",84,10,"Delta*T==8*'-'*10*degree*C",0.5,11043253.6495996
-"130","Full closure",6,8,"Delta*T==8*'-'*10*degree*C",0.823529411764706,12493074.3882439
-"131","Full closure",6,9,"Delta*T==8*'-'*10*degree*C",0.470588235294118,8688094.82745989
-"132","Full closure",6,10,"Delta*T==8*'-'*10*degree*C",0.411764705882353,7751749.01951248
-"133","Full closure",12,8,"Delta*T==8*'-'*10*degree*C",0.882352941176471,13268167.415946
-"134","Full closure",12,9,"Delta*T==8*'-'*10*degree*C",0.470588235294118,8442063.58249564
-"135","Full closure",12,10,"Delta*T==8*'-'*10*degree*C",0.470588235294118,8662982.39337208
-"136","Full closure",18,8,"Delta*T==8*'-'*10*degree*C",1,14061442.317226
-"137","Full closure",18,9,"Delta*T==8*'-'*10*degree*C",0.647058823529412,8755213.2573014
-"138","Full closure",18,10,"Delta*T==8*'-'*10*degree*C",0.529411764705882,9203274.58105404
-"139","Full closure",24,8,"Delta*T==8*'-'*10*degree*C",1,14998331.529754
-"140","Full closure",24,9,"Delta*T==8*'-'*10*degree*C",0.529411764705882,9144636.67365136
-"141","Full closure",24,10,"Delta*T==8*'-'*10*degree*C",0.588235294117647,9380322.75837218
-"142","Full closure",30,8,"Delta*T==8*'-'*10*degree*C",1,15675874.4623829
-"143","Full closure",30,9,"Delta*T==8*'-'*10*degree*C",0.588235294117647,9785030.56171048
-"144","Full closure",30,10,"Delta*T==8*'-'*10*degree*C",0.470588235294118,9895036.76157626
-"145","Full closure",36,8,"Delta*T==8*'-'*10*degree*C",0.941176470588235,16661793.1494777
-"146","Full closure",36,9,"Delta*T==8*'-'*10*degree*C",0.764705882352941,10442993.4333575
-"147","Full closure",36,10,"Delta*T==8*'-'*10*degree*C",0.6875,10521093.8477376
-"148","Full closure",42,8,"Delta*T==8*'-'*10*degree*C",0.9375,17351217.8215197
-"149","Full closure",42,9,"Delta*T==8*'-'*10*degree*C",0.8125,10388974.1692505
-"150","Full closure",42,10,"Delta*T==8*'-'*10*degree*C",0.625,10439494.3545545
-"151","Full closure",48,8,"Delta*T==8*'-'*10*degree*C",0.9375,18314009.1623185
-"152","Full closure",48,9,"Delta*T==8*'-'*10*degree*C",0.75,11206474.9267404
-"153","Full closure",48,10,"Delta*T==8*'-'*10*degree*C",0.5,10604034.833731
-"154","Full closure",54,8,"Delta*T==8*'-'*10*degree*C",1,19057334.5947067
-"155","Full closure",54,9,"Delta*T==8*'-'*10*degree*C",0.75,11881741.5386132
-"156","Full closure",54,10,"Delta*T==8*'-'*10*degree*C",0.75,11351601.366913
-"157","Full closure",60,8,"Delta*T==8*'-'*10*degree*C",1,20088797.7617984
-"158","Full closure",60,9,"Delta*T==8*'-'*10*degree*C",0.875,12815580.615838
-"159","Full closure",60,10,"Delta*T==8*'-'*10*degree*C",0.6875,11734717.6574688
-"160","Full closure",66,8,"Delta*T==8*'-'*10*degree*C",1,20887197.1598419
-"161","Full closure",66,9,"Delta*T==8*'-'*10*degree*C",0.8125,13687210.0204893
-"162","Full closure",66,10,"Delta*T==8*'-'*10*degree*C",0.5625,12301163.1189103
-"163","Full closure",72,8,"Delta*T==8*'-'*10*degree*C",1,21858585.2889085
-"164","Full closure",72,9,"Delta*T==8*'-'*10*degree*C",0.9375,14593174.1222811
-"165","Full closure",72,10,"Delta*T==8*'-'*10*degree*C",0.625,12741784.9426773
-"166","Full closure",78,8,"Delta*T==8*'-'*10*degree*C",1,22625500.6180246
-"167","Full closure",78,9,"Delta*T==8*'-'*10*degree*C",0.875,15361019.7148159
-"168","Full closure",78,10,"Delta*T==8*'-'*10*degree*C",0.75,13398516.6626637
-"169","Full closure",84,8,"Delta*T==8*'-'*10*degree*C",1,23618315.7168468
-"170","Full closure",84,9,"Delta*T==8*'-'*10*degree*C",0.9375,16319126.7824925
-"171","Full closure",84,10,"Delta*T==8*'-'*10*degree*C",0.875,14242477.5597179
+"","policy_length","cost_effective","policy","scenario","temp_band"
+"1",0,0,NA,8,"Delta*T==8*'-'*10*degree*C"
+"2",0,0,NA,9,"Delta*T==8*'-'*10*degree*C"
+"3",0,0,NA,10,"Delta*T==8*'-'*10*degree*C"
+"4",6,11875.9401413334,"Increase male size limit",8,"Delta*T==8*'-'*10*degree*C"
+"5",6,14274.4330014303,"Increase male size limit",9,"Delta*T==8*'-'*10*degree*C"
+"6",6,16754.8785997351,"Increase male size limit",10,"Delta*T==8*'-'*10*degree*C"
+"7",12,12519.3876453764,"Increase male size limit",8,"Delta*T==8*'-'*10*degree*C"
+"8",12,16768.4437543797,"Increase male size limit",9,"Delta*T==8*'-'*10*degree*C"
+"9",12,18419.7776797194,"Increase male size limit",10,"Delta*T==8*'-'*10*degree*C"
+"10",18,11951.84673135,"Increase male size limit",8,"Delta*T==8*'-'*10*degree*C"
+"11",18,14442.5092651584,"Increase male size limit",9,"Delta*T==8*'-'*10*degree*C"
+"12",18,18433.1844837282,"Increase male size limit",10,"Delta*T==8*'-'*10*degree*C"
+"13",24,14601.1868591372,"Increase male size limit",8,"Delta*T==8*'-'*10*degree*C"
+"14",24,14568.1462398869,"Increase male size limit",9,"Delta*T==8*'-'*10*degree*C"
+"15",24,16635.0227668064,"Increase male size limit",10,"Delta*T==8*'-'*10*degree*C"
+"16",30,12574.2055794481,"Increase male size limit",8,"Delta*T==8*'-'*10*degree*C"
+"17",30,17113.4997489834,"Increase male size limit",9,"Delta*T==8*'-'*10*degree*C"
+"18",30,18515.8620586773,"Increase male size limit",10,"Delta*T==8*'-'*10*degree*C"
+"19",36,12810.8505305995,"Increase male size limit",8,"Delta*T==8*'-'*10*degree*C"
+"20",36,13606.0638496414,"Increase male size limit",9,"Delta*T==8*'-'*10*degree*C"
+"21",36,16134.0828771098,"Increase male size limit",10,"Delta*T==8*'-'*10*degree*C"
+"22",42,12498.647935751,"Increase male size limit",8,"Delta*T==8*'-'*10*degree*C"
+"23",42,16885.9434469197,"Increase male size limit",9,"Delta*T==8*'-'*10*degree*C"
+"24",42,16771.9077519835,"Increase male size limit",10,"Delta*T==8*'-'*10*degree*C"
+"25",48,12086.1974564078,"Increase male size limit",8,"Delta*T==8*'-'*10*degree*C"
+"26",48,16158.1607684539,"Increase male size limit",9,"Delta*T==8*'-'*10*degree*C"
+"27",48,20582.0070952989,"Increase male size limit",10,"Delta*T==8*'-'*10*degree*C"
+"28",54,14216.3662911511,"Increase male size limit",8,"Delta*T==8*'-'*10*degree*C"
+"29",54,11471.0472121307,"Increase male size limit",9,"Delta*T==8*'-'*10*degree*C"
+"30",54,17702.7144849653,"Increase male size limit",10,"Delta*T==8*'-'*10*degree*C"
+"31",60,11237.5013785609,"Increase male size limit",8,"Delta*T==8*'-'*10*degree*C"
+"32",60,12438.5955373565,"Increase male size limit",9,"Delta*T==8*'-'*10*degree*C"
+"33",60,18269.1861588128,"Increase male size limit",10,"Delta*T==8*'-'*10*degree*C"
+"34",66,11799.57902704,"Increase male size limit",8,"Delta*T==8*'-'*10*degree*C"
+"35",66,22281.9818470625,"Increase male size limit",9,"Delta*T==8*'-'*10*degree*C"
+"36",66,30380.170933393,"Increase male size limit",10,"Delta*T==8*'-'*10*degree*C"
+"37",72,13694.5957367936,"Increase male size limit",8,"Delta*T==8*'-'*10*degree*C"
+"38",72,18815.6107715075,"Increase male size limit",9,"Delta*T==8*'-'*10*degree*C"
+"39",72,18392.1364286953,"Increase male size limit",10,"Delta*T==8*'-'*10*degree*C"
+"40",78,16293.2736219508,"Increase male size limit",8,"Delta*T==8*'-'*10*degree*C"
+"41",78,22894.62839084,"Increase male size limit",9,"Delta*T==8*'-'*10*degree*C"
+"42",78,22715.4413133899,"Increase male size limit",10,"Delta*T==8*'-'*10*degree*C"
+"43",84,44547.9854350436,"Increase male size limit",8,"Delta*T==8*'-'*10*degree*C"
+"44",84,51463.5903692174,"Increase male size limit",9,"Delta*T==8*'-'*10*degree*C"
+"45",84,22066.3375361054,"Increase male size limit",10,"Delta*T==8*'-'*10*degree*C"
+"46",6,14136.5619793408,"No fishing females",8,"Delta*T==8*'-'*10*degree*C"
+"47",6,14002.1883557775,"No fishing females",9,"Delta*T==8*'-'*10*degree*C"
+"48",6,14326.9364882209,"No fishing females",10,"Delta*T==8*'-'*10*degree*C"
+"49",12,13404.8169884843,"No fishing females",8,"Delta*T==8*'-'*10*degree*C"
+"50",12,15435.7213013682,"No fishing females",9,"Delta*T==8*'-'*10*degree*C"
+"51",12,17872.804343396,"No fishing females",10,"Delta*T==8*'-'*10*degree*C"
+"52",18,14392.5283980979,"No fishing females",8,"Delta*T==8*'-'*10*degree*C"
+"53",18,14397.3327766703,"No fishing females",9,"Delta*T==8*'-'*10*degree*C"
+"54",18,16152.4833904879,"No fishing females",10,"Delta*T==8*'-'*10*degree*C"
+"55",24,12560.74883062,"No fishing females",8,"Delta*T==8*'-'*10*degree*C"
+"56",24,14034.8553216823,"No fishing females",9,"Delta*T==8*'-'*10*degree*C"
+"57",24,15635.0083100689,"No fishing females",10,"Delta*T==8*'-'*10*degree*C"
+"58",30,13260.9068659228,"No fishing females",8,"Delta*T==8*'-'*10*degree*C"
+"59",30,16992.6088690139,"No fishing females",9,"Delta*T==8*'-'*10*degree*C"
+"60",30,16243.1803096754,"No fishing females",10,"Delta*T==8*'-'*10*degree*C"
+"61",36,14101.1139666958,"No fishing females",8,"Delta*T==8*'-'*10*degree*C"
+"62",36,13361.5101032514,"No fishing females",9,"Delta*T==8*'-'*10*degree*C"
+"63",36,14590.0880864466,"No fishing females",10,"Delta*T==8*'-'*10*degree*C"
+"64",42,14401.221035255,"No fishing females",8,"Delta*T==8*'-'*10*degree*C"
+"65",42,15088.6665170045,"No fishing females",9,"Delta*T==8*'-'*10*degree*C"
+"66",42,16065.4641066623,"No fishing females",10,"Delta*T==8*'-'*10*degree*C"
+"67",48,13151.4188695852,"No fishing females",8,"Delta*T==8*'-'*10*degree*C"
+"68",48,12321.1352823603,"No fishing females",9,"Delta*T==8*'-'*10*degree*C"
+"69",48,18623.5458935355,"No fishing females",10,"Delta*T==8*'-'*10*degree*C"
+"70",54,14787.6091426505,"No fishing females",8,"Delta*T==8*'-'*10*degree*C"
+"71",54,15197.2210773996,"No fishing females",9,"Delta*T==8*'-'*10*degree*C"
+"72",54,15089.2686529672,"No fishing females",10,"Delta*T==8*'-'*10*degree*C"
+"73",60,13505.6257554106,"No fishing females",8,"Delta*T==8*'-'*10*degree*C"
+"74",60,13376.3094654428,"No fishing females",9,"Delta*T==8*'-'*10*degree*C"
+"75",60,14677.5814499438,"No fishing females",10,"Delta*T==8*'-'*10*degree*C"
+"76",66,13948.7992301976,"No fishing females",8,"Delta*T==8*'-'*10*degree*C"
+"77",66,12133.2888722949,"No fishing females",9,"Delta*T==8*'-'*10*degree*C"
+"78",66,19183.7944452769,"No fishing females",10,"Delta*T==8*'-'*10*degree*C"
+"79",72,14682.84620734,"No fishing females",8,"Delta*T==8*'-'*10*degree*C"
+"80",72,14013.7814843868,"No fishing females",9,"Delta*T==8*'-'*10*degree*C"
+"81",72,14072.7311982229,"No fishing females",10,"Delta*T==8*'-'*10*degree*C"
+"82",78,14508.9993109572,"No fishing females",8,"Delta*T==8*'-'*10*degree*C"
+"83",78,13260.3436768093,"No fishing females",9,"Delta*T==8*'-'*10*degree*C"
+"84",78,16414.1517431135,"No fishing females",10,"Delta*T==8*'-'*10*degree*C"
+"85",84,14520.3476865366,"No fishing females",8,"Delta*T==8*'-'*10*degree*C"
+"86",84,13859.5383864997,"No fishing females",9,"Delta*T==8*'-'*10*degree*C"
+"87",84,16439.3866375771,"No fishing females",10,"Delta*T==8*'-'*10*degree*C"
+"88",6,18419.4568741482,"No fishing males",8,"Delta*T==8*'-'*10*degree*C"
+"89",6,25635.2211051513,"No fishing males",9,"Delta*T==8*'-'*10*degree*C"
+"90",6,35975.4401862751,"No fishing males",10,"Delta*T==8*'-'*10*degree*C"
+"91",12,23315.7701692584,"No fishing males",8,"Delta*T==8*'-'*10*degree*C"
+"92",12,45756.6928302315,"No fishing males",9,"Delta*T==8*'-'*10*degree*C"
+"93",12,26437.2452876888,"No fishing males",10,"Delta*T==8*'-'*10*degree*C"
+"94",18,26627.3434339739,"No fishing males",8,"Delta*T==8*'-'*10*degree*C"
+"95",18,33484.8778546701,"No fishing males",9,"Delta*T==8*'-'*10*degree*C"
+"96",18,28665.8108992561,"No fishing males",10,"Delta*T==8*'-'*10*degree*C"
+"97",24,28458.834782441,"No fishing males",8,"Delta*T==8*'-'*10*degree*C"
+"98",24,35941.9852555133,"No fishing males",9,"Delta*T==8*'-'*10*degree*C"
+"99",24,26821.5554670553,"No fishing males",10,"Delta*T==8*'-'*10*degree*C"
+"100",30,27210.0675851518,"No fishing males",8,"Delta*T==8*'-'*10*degree*C"
+"101",30,34562.5162206664,"No fishing males",9,"Delta*T==8*'-'*10*degree*C"
+"102",30,28242.1101418631,"No fishing males",10,"Delta*T==8*'-'*10*degree*C"
+"103",36,28276.8962365731,"No fishing males",8,"Delta*T==8*'-'*10*degree*C"
+"104",36,16032.8321653243,"No fishing males",9,"Delta*T==8*'-'*10*degree*C"
+"105",36,16031.2340785762,"No fishing males",10,"Delta*T==8*'-'*10*degree*C"
+"106",42,16994.7392290886,"No fishing males",8,"Delta*T==8*'-'*10*degree*C"
+"107",42,16371.6991377941,"No fishing males",9,"Delta*T==8*'-'*10*degree*C"
+"108",42,15189.6454456657,"No fishing males",10,"Delta*T==8*'-'*10*degree*C"
+"109",48,18511.191536907,"No fishing males",8,"Delta*T==8*'-'*10*degree*C"
+"110",48,15137.2380537539,"No fishing males",9,"Delta*T==8*'-'*10*degree*C"
+"111",48,18347.3537532446,"No fishing males",10,"Delta*T==8*'-'*10*degree*C"
+"112",54,17292.2530722316,"No fishing males",8,"Delta*T==8*'-'*10*degree*C"
+"113",54,14035.5532752088,"No fishing males",9,"Delta*T==8*'-'*10*degree*C"
+"114",54,19187.3181048895,"No fishing males",10,"Delta*T==8*'-'*10*degree*C"
+"115",60,16820.9426929458,"No fishing males",8,"Delta*T==8*'-'*10*degree*C"
+"116",60,20022.8453957756,"No fishing males",9,"Delta*T==8*'-'*10*degree*C"
+"117",60,20668.9369076359,"No fishing males",10,"Delta*T==8*'-'*10*degree*C"
+"118",66,17222.1021389945,"No fishing males",8,"Delta*T==8*'-'*10*degree*C"
+"119",66,14495.9032668441,"No fishing males",9,"Delta*T==8*'-'*10*degree*C"
+"120",66,20670.2958887122,"No fishing males",10,"Delta*T==8*'-'*10*degree*C"
+"121",72,17974.3191223999,"No fishing males",8,"Delta*T==8*'-'*10*degree*C"
+"122",72,23350.0081386322,"No fishing males",9,"Delta*T==8*'-'*10*degree*C"
+"123",72,14443.9669485658,"No fishing males",10,"Delta*T==8*'-'*10*degree*C"
+"124",78,18299.9753461657,"No fishing males",8,"Delta*T==8*'-'*10*degree*C"
+"125",78,15957.3503690105,"No fishing males",9,"Delta*T==8*'-'*10*degree*C"
+"126",78,20438.3925793816,"No fishing males",10,"Delta*T==8*'-'*10*degree*C"
+"127",84,18977.1680773278,"No fishing males",8,"Delta*T==8*'-'*10*degree*C"
+"128",84,16972.5589129772,"No fishing males",9,"Delta*T==8*'-'*10*degree*C"
+"129",84,22086.5072991992,"No fishing males",10,"Delta*T==8*'-'*10*degree*C"
+"130",6,15170.1617571533,"Full closure",8,"Delta*T==8*'-'*10*degree*C"
+"131",6,18462.2015083523,"Full closure",9,"Delta*T==8*'-'*10*degree*C"
+"132",6,18825.6761902446,"Full closure",10,"Delta*T==8*'-'*10*degree*C"
+"133",12,15037.2564047388,"Full closure",8,"Delta*T==8*'-'*10*degree*C"
+"134",12,17939.3851128032,"Full closure",9,"Delta*T==8*'-'*10*degree*C"
+"135",12,18408.8375859157,"Full closure",10,"Delta*T==8*'-'*10*degree*C"
+"136",18,14061.442317226,"Full closure",8,"Delta*T==8*'-'*10*degree*C"
+"137",18,13530.7841249203,"Full closure",9,"Delta*T==8*'-'*10*degree*C"
+"138",18,17383.9630975465,"Full closure",10,"Delta*T==8*'-'*10*degree*C"
+"139",24,14998.331529754,"Full closure",8,"Delta*T==8*'-'*10*degree*C"
+"140",24,17273.2026057859,"Full closure",9,"Delta*T==8*'-'*10*degree*C"
+"141",24,15946.5486892327,"Full closure",10,"Delta*T==8*'-'*10*degree*C"
+"142",30,15675.8744623829,"Full closure",8,"Delta*T==8*'-'*10*degree*C"
+"143",30,16634.5519549078,"Full closure",9,"Delta*T==8*'-'*10*degree*C"
+"144",30,21026.9531183495,"Full closure",10,"Delta*T==8*'-'*10*degree*C"
+"145",36,17703.1552213201,"Full closure",8,"Delta*T==8*'-'*10*degree*C"
+"146",36,13656.2221820829,"Full closure",9,"Delta*T==8*'-'*10*degree*C"
+"147",36,15303.4092330729,"Full closure",10,"Delta*T==8*'-'*10*degree*C"
+"148",42,18507.9656762877,"Full closure",8,"Delta*T==8*'-'*10*degree*C"
+"149",42,12786.4297467698,"Full closure",9,"Delta*T==8*'-'*10*degree*C"
+"150",42,16703.1909672872,"Full closure",10,"Delta*T==8*'-'*10*degree*C"
+"151",48,19534.9431064731,"Full closure",8,"Delta*T==8*'-'*10*degree*C"
+"152",48,14941.9665689872,"Full closure",9,"Delta*T==8*'-'*10*degree*C"
+"153",48,21208.069667462,"Full closure",10,"Delta*T==8*'-'*10*degree*C"
+"154",54,19057.3345947067,"Full closure",8,"Delta*T==8*'-'*10*degree*C"
+"155",54,15842.3220514843,"Full closure",9,"Delta*T==8*'-'*10*degree*C"
+"156",54,15135.4684892173,"Full closure",10,"Delta*T==8*'-'*10*degree*C"
+"157",60,20088.7977617984,"Full closure",8,"Delta*T==8*'-'*10*degree*C"
+"158",60,14646.377846672,"Full closure",9,"Delta*T==8*'-'*10*degree*C"
+"159",60,17068.6802290455,"Full closure",10,"Delta*T==8*'-'*10*degree*C"
+"160",66,20887.1971598419,"Full closure",8,"Delta*T==8*'-'*10*degree*C"
+"161",66,16845.7969482945,"Full closure",9,"Delta*T==8*'-'*10*degree*C"
+"162",66,21868.7344336183,"Full closure",10,"Delta*T==8*'-'*10*degree*C"
+"163",72,21858.5852889085,"Full closure",8,"Delta*T==8*'-'*10*degree*C"
+"164",72,15566.0523970998,"Full closure",9,"Delta*T==8*'-'*10*degree*C"
+"165",72,20386.8559082837,"Full closure",10,"Delta*T==8*'-'*10*degree*C"
+"166",78,22625.5006180246,"Full closure",8,"Delta*T==8*'-'*10*degree*C"
+"167",78,17555.4511026467,"Full closure",9,"Delta*T==8*'-'*10*degree*C"
+"168",78,17864.6888835516,"Full closure",10,"Delta*T==8*'-'*10*degree*C"
+"169",84,23618.3157168468,"Full closure",8,"Delta*T==8*'-'*10*degree*C"
+"170",84,17407.068567992,"Full closure",9,"Delta*T==8*'-'*10*degree*C"
+"171",84,16277.1172111062,"Full closure",10,"Delta*T==8*'-'*10*degree*C"

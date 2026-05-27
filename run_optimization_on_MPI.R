@@ -1,5 +1,5 @@
 ################################################################################
-# Seleni Cruz 
+# Cruz et al.
 # Jan, 2026
 # Set up to run in MPI parallel processing in HPC environment 
 # Dimensions: temp_change (warming intensity), policy, climate shock (timing of wamring) and policy length
@@ -137,7 +137,7 @@ for(policy_length in policy_length_range){
   )
   
   
-  for (sim in 1:100) { # run each simulation 100 times
+  for (sim in 1:100) { # run each simulation 1000 times
     print(paste("Starting global search for simulation", sim))
     
     res_global = tryCatch({
