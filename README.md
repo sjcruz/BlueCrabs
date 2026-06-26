@@ -50,3 +50,8 @@ The script `run_optimization_on_MPI.R` executes the full simulation framework us
 The repository contains the processed data required to reproduce the figures presented in the manuscript.
 
 Fishery-independent trawl survey and commercial landings data used for model parameterization and validation were provided by the Delaware Department of Natural Resources and Environmental Control (DNREC) and are not publicly available.
+
+## License
+
+Copyright (c) 2026 Seleni J. Cruz and contributors.
+This project is licensed under the MIT License. See the `LICENSE` file for details.
