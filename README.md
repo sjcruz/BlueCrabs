@@ -1,6 +1,6 @@
 # BlueCrabs
 
-Bioeconomic model and data for *"Timely Policy Responses Can Save Fisheries from (Some) Temperature Shocks"*.
+Bioeconomic model and data accompanying the manuscript *"Timely Policy Responses Can Save Fisheries from (Some) Temperature Shocks"*.
 
 ## Repository contents
 
